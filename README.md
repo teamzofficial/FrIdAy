@@ -4,6 +4,9 @@
 
 # FrIdAy
 ML Based Offensive Security
+<p align="center">
+  <img src="images/banner.png" alt="TeamZ Banner">
+</p>
 
 --------------------------------------------------------------------------------------------
 Our aim was to create a suite of tools to prevent cyber attacks in real time. We have 
