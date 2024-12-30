@@ -16,18 +16,34 @@ successfully implemented the following.
 1. We have successfully created our own datasets by performing cyber attacks in real time 
 and converting these logs into CSV format using TShark tool.
 
+<p align="center">
+  <img src="images/dataset.png" alt="TeamZ Banner">
+</p>
+
 2. We have successfully implemented a Transformer based model using hash mapping to 
 prevent Phishing. Our tool detects malicious links and blocks them, if the links are not 
 malicious the tool allows access to the website.
+
+<p align="center">
+  <img src="images/phishing.png" alt="TeamZ Banner">
+</p>
 
 3. We have successfully implemented an LSTM based model to detect Denial of Service 
 attacks. Our model works by detecting a DoS attack and raising a caution for the IP 
 address, subsequently blocking the IP address. 
 
+<p align="center">
+  <img src="images/dos.png" alt="TeamZ Banner">
+</p>
+
 4. We have successfully implemented a malware detection system that utilises 
 Steganography detection techniques to identify if a particular file or software has virus 
 embedded in it or not. If Malware is present it alerts the user and analyse the type of
 malware
+
+<p align="center">
+  <img src="images/malware.png" alt="TeamZ Banner">
+</p>
 
 ---------------------------------------------------------------------------------------------
 
